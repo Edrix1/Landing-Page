@@ -1,0 +1,33 @@
+.intro {
+    display: flex;
+    background-color: #1F2937;
+    color: white;
+    font-size: 24px;
+    gap:10px;
+}
+
+.header {
+    margin-right: auto;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.body {
+    display: flex;
+    background-color: #1F2937;
+    color: white;
+    border: solid red;
+    flex: 1;
+}
+.work {
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    font-size: 48px;
+    font-style: bold;
+}
